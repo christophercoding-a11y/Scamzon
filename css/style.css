@@ -45,18 +45,6 @@ body {
     background-color: var(--sec);
 }
 
-.my-card-header2 {
-    background-color: #A31621;
-}
-
-.my-card-header3 {
-    background-color: purple;
-}
-
-.my-card-header4 {
-    background-color: darkgray;
-}
-
 .card-top{
     font-family:'Times New Roman', Times, serif
 }
